@@ -3,7 +3,7 @@
 
 Nesse repositório você irá encontrar minhas atividades que pratiquei no curso de React.
 
-- Pratica em criações de componebtes
+- Praticas em criações de componebtes
 - Praticas com testes unitários
 - Praticas utilizando props
 - Praticas utilizando Hooks
